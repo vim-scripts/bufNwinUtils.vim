@@ -1,0 +1,17 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=108
+
+This script is not maintained any more. I have renamed it to genutils.vim and added many more functions. Unless you are using a very old version of one of my other scripts, that require this, you should download the new script, genutils.vim
+
+(http://vim.sourceforge.net/scripts/script.php?script_id=197
+
+-----------
+
+Defines the following functions:
+
+- NumberOfWindows
+- FindWindowForBuffer
+- FindBufferForName
+- SaveWindowSettings
+- RestoreWindowSettings
+
+And other misc. functions.
